@@ -1,4 +1,5 @@
- Olá, eu sou o Arthur 👋
+[README (3).md](https://github.com/user-attachments/files/32699198/README.3.md)
+# Olá, eu sou o Arthur 👋
 
 Estudante de Desenvolvimento de Sistemas no **SENAI**, focado em desenvolvimento **Full-Stack** com Node.js e React.
 
@@ -8,12 +9,16 @@ Estudante de Desenvolvimento de Sistemas no **SENAI**, focado em desenvolvimento
 - ⚡ Gosto de entender a fundo o código que escrevo, não só fazer funcionar
 - 🤖 Uso IA como ferramenta de trabalho no dia a dia — no projeto KeepStock, por exemplo, usei o Google Antigravity para gerar boa parte do front-end e, em seguida, me aprofundei no código gerado até entender e conseguir explicar seu funcionamento por completo
 
+---
+
 ## 🛠️ Tecnologias
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
@@ -22,14 +27,14 @@ Estudante de Desenvolvimento de Sistemas no **SENAI**, focado em desenvolvimento
 
 ## 🚀 Projetos em destaque
 
-📚 Sistema de Gestão Escolar
+### 📚 Sistema de Gestão Escolar
 Aplicação full-stack para gestão escolar, com controle de alunos, turmas e ocorrências.
 - Back-end em Node.js/Express com controllers organizados por rota
 - Front-end em React com Material UI e React Router
 - Autenticação via JWT com interceptor Axios para chamadas seguras
 - Controle de acesso por papel (role-based): professores e coordenadores têm níveis de permissão diferentes dentro do sistema
 
-📦 KeepStock — Sistema Inteligente de Estoque
+### 📦 KeepStock — Sistema Inteligente de Estoque
 Sistema de controle de estoque com API própria.
 - [`StockApiRepositorio`](https://github.com/arthurfaleiros-stack/StockApiRepositorio) — API em Node/Express/MySQL
 - [`StockFrontEnd`](https://github.com/arthurfaleiros-stack/StockFrontEnd) — Front-end React conectado à API
@@ -40,7 +45,7 @@ Sistema de controle de estoque com API própria.
 
 ## 💡 Outros projetos / Ideação
 
-App de Agendamento de Consultas
+### App de Agendamento de Consultas
 Proposta (protótipo/pitch, sem implementação) de plataforma web e mobile para agendamento médico, pensada para facilitar o acesso de pacientes 60+ a consultas — desenvolvida como Desafio de Ideias no SENAI.
 
 ---
