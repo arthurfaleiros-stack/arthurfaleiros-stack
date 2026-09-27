@@ -7,7 +7,7 @@ Estudante de Desenvolvimento de Sistemas no **SENAI**, focado em desenvolvimento
 - 💻 Trabalho principalmente com **Node.js/Express** no back-end e **React** no front-end
 - 🔍 Buscando oportunidade de **estágio/emprego júnior** em desenvolvimento
 - ⚡ Gosto de entender a fundo o código que escrevo, não só fazer funcionar
-- 🤖 Uso IA como ferramenta de trabalho no dia a dia, para corrigir erros fazer aplicações, entendo primeiramente como ela funciona, e utilizo ela como forma de auxiliar meu trabalho
+- 🤖 Uso IA como ferramenta de trabalho no dia a dia, para corrigir erros fazer aplicações, entendo primeiramente como ela funciona, e utilizo ela como forma de auxiliar meu trabalho, Não deixo ela apenas realizar o trabalho, faço uma revisão das alterações, interpreto mudanças 
 
 ---
 
