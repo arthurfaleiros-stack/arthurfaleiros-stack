@@ -1,5 +1,5 @@
-[README (3).md](https://github.com/user-attachments/files/32699198/README.3.md)
-# Olá, eu sou o Arthur 👋
+
+# Olá, eu sou o Arthur 👋, Estudante de Desenvolvimento de Sistemas | Desenvolvedor Full-Stack em formação
 
 Estudante de Desenvolvimento de Sistemas no **SENAI**, focado em desenvolvimento **Full-Stack** com Node.js e React.
 
